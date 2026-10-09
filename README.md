@@ -2,7 +2,7 @@
 <h3 align="center">Software engineer in training @ 42 Belgium</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=C+%26+C%2B%2B+developer;// TODO: never stop learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=C+%26+C%2B%2B+developer;%2F%2F+TODO%3A+never+stop+learning" alt="Typing SVG" />
 </p>
 
 ---
