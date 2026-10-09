@@ -2,7 +2,7 @@
 <h3 align="center">Software engineer in training @ 42 Belgium</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=C+%26+C%2B%2B+developer;I+build+projects+from+the+ground+up;Looking+for+a+team+to+keep+learning+and+growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=C+%26+C%2B%2B+developer;Looking+for+a+team+to+keep+learning+and+growing" alt="Typing SVG" />
 </p>
 
 ---
@@ -51,21 +51,9 @@ I'm in training at **42 Belgium**, advancing in the post-common core.
 
 ---
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
 ## 📫 Let's connect
 
 <p>
-  <a href="mailto:Brieuccoppieters@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:brieuccoppieters@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:Brieuccoppieters@gmail.com">BrieucCoppieters@gmail.com</a>
 </p>
