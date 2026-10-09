@@ -47,7 +47,7 @@ I'm in training at **42 Belgium**, advancing in the post-common core.
 | 🎨 **[Ray Tracer](https://github.com/Briouche/miniRT)** | C | Renders 3D scenes with lighting and shadows |
 | 🌐 **[Web Server](https://github.com/Briouche/webserv)** | C++ | HTTP server built from scratch: concurrent connections, config parsing, CGI |
 | 🐳 **[Docker Multi-Service Setup](https://github.com/Briouche/inception)** | Docker, Compose | Containerized multi-service infrastructure with Dockerfiles and Compose |
-| 🃏 **[Multiplayer Card Game](https://github.com/Briouche/ft_transcendence)** | TypeScript, JavaScript, Next.js | Hearthstone-like web game with full-stack back and front end, built with a team of 4 |
+| 🃏 **[Multiplayer Card Game](https://github.com/Briouche/ft_trancendence)** | TypeScript, JavaScript, Next.js | Hearthstone-like web game with full-stack back and front end, built with a team of 4 |
 
 ---
 
